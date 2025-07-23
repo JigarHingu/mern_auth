@@ -1,43 +1,43 @@
-; ✅ MERN Authentication System – Features & Steps
+ ✅ MERN Authentication System – Features & Steps
 
-; 🔐 Authentication System Features:
+ 🔐 Authentication System Features:
 
-; ⁕ Includes Email Verification.
+ ⁕ Includes Email Verification.
 
-; ⁕ Provides Password Reset functionality.
+ ⁕ Provides Password Reset functionality.
 
-; ⁕ Uses a secure 6-digit OTP sent to the user's email.
+ ⁕ Uses a secure 6-digit OTP sent to the user's email.
 
-; 🛠️ Backend Development:
+ 🛠️ Backend Development:
 
-; ⁕ Build the backend server to handle authentication-related APIs.
+ ⁕ Build the backend server to handle authentication-related APIs.
 
-; ⁕ Use the MERN stack (MongoDB, Express, React, Node.js).
+ ⁕ Use the MERN stack (MongoDB, Express, React, Node.js).
 
-; ⁕ Implement JWT (JSON Web Token) for secure authentication.
-; 🎨 Frontend Development:
+ ⁕ Implement JWT (JSON Web Token) for secure authentication.
+ 🎨 Frontend Development:
 
-; ⁕ Use React with Tailwind CSS to build the client app.
+ ⁕ Use React with Tailwind CSS to build the client app.
 
-; ⁕ Create the following forms:
+ ⁕ Create the following forms:
 
-; ⁕ Login Form
+ ⁕ Login Form
 
-; ⁕ Registration Form
+ ⁕ Registration Form
 
-; ⁕ Password Reset Form with OTP input field
+ ⁕ Password Reset Form with OTP input field
 
-; ⁕ Connect the frontend forms to the backend APIs.
+ ⁕ Connect the frontend forms to the backend APIs.
 
-; 🧩 Final Output:
+ 🧩 Final Output:
 
-; ⁕ A fully functional MERN Stack Authentication System with:
+ ⁕ A fully functional MERN Stack Authentication System with:
 
-; ⁕ Secure login
+ ⁕ Secure login
 
-; ⁕ User registration
+ ⁕ User registration
 
-; ⁕ Email verification via OTP
+ ⁕ Email verification via OTP
 
-; ⁕ Password reset with OTP validation
+ ⁕ Password reset with OTP validation
 

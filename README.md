@@ -67,7 +67,7 @@ JWT_SECRET=your_jwt_secret_key
 # Then start the backend server:
 
 ```bash
-npm run dev
+npm run start
 ```
 
 ### 🌐 Frontend
